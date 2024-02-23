@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\foundations",
+    "\\foundations\\06-cascade-fix",
+    "\\foundations\\06-cascade-fix\\solution"
   ],
+  "SelectedNode": "\\foundations\\06-cascade-fix\\solution\\solution.css",
   "PreviewInSolutionExplorer": false
 }
